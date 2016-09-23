@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "530114491277",
+    "firebase_url": "https://sample-98117.firebaseio.com",
+    "project_id": "sample-98117",
+    "storage_bucket": "sample-98117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530114491277:android:7a7b6506c20957bd",
+        "android_client_info": {
+          "package_name": "sikmi.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530114491277-fs6kdg3uuo8j7jcd28ubd0h8fhqp7l5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDomIGl3ufpO02u_8D1wKG_lLWW8c6NLZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
